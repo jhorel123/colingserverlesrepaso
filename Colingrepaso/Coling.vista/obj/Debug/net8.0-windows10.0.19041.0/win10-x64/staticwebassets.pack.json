@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\nuevastecnologiasrepaso\\colingserverlesrepaso\\Colingrepaso\\Coling.vista\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Coling.vista.styles.css",
+      "PackagePath": "staticwebassets\\Coling.vista.styles.css"
+    },
+    {
+      "Id": "D:\\nuevastecnologiasrepaso\\colingserverlesrepaso\\Colingrepaso\\Coling.vista\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\nuevastecnologiasrepaso\\colingserverlesrepaso\\Colingrepaso\\Coling.vista\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\nuevastecnologiasrepaso\\colingserverlesrepaso\\Colingrepaso\\Coling.vista\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\nuevastecnologiasrepaso\\colingserverlesrepaso\\Colingrepaso\\Coling.vista\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\nuevastecnologiasrepaso\\colingserverlesrepaso\\Colingrepaso\\Coling.vista\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.Coling.vista.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.Coling.vista.props",
+      "PackagePath": "build\\Coling.vista.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.Coling.vista.props",
+      "PackagePath": "buildMultiTargeting\\Coling.vista.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.Coling.vista.props",
+      "PackagePath": "buildTransitive\\Coling.vista.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
